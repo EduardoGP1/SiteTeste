@@ -1,0 +1,66 @@
+
+@charset "UTF-8";
+h1 {
+    color: rgb(216, 98, 43); 
+    font-size: 40px;
+    padding: 0.5em;
+    margin: 0px;
+    text-align: center;
+}
+h2 {
+    color: rgba(6, 5, 46, 0.596); 
+    font-size: 30px;
+    padding: 1em;
+    margin: 0px;
+    text-align: center;
+}
+.caixa1 {
+    background-color: rgb(154, 207, 224);
+    color: rgba(6, 5, 46, 0.596);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 0px;
+}
+.caixa11{
+    padding: 0.5em;
+    margin: auto;
+    max-width: 60em;
+}
+.caixa2 {
+    border-color: blue;
+    background-color: rgb(212, 240, 53);
+    color: rgba(6, 5, 46, 0.596);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    display: block;
+}
+.caixa21{
+    padding: 0.5em;
+    margin: auto;
+    max-width: 60em;
+}
+footer {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.829);
+}
+footer > article {
+    text-align: center;
+    color: white;
+}
+.header {
+    display:inline-flexbox;
+    background-color: rgb(111, 134, 235);
+    color: rgba(45, 45, 92, 0.596);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 20%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    box-shadow: 0px 10px;
+}
+body {
+    margin: 0px;
+}
